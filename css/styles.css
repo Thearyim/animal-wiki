@@ -1,0 +1,24 @@
+body {
+  background-color: tan;
+}
+
+h2 {
+  color:black;
+}
+
+a {
+  color:black;
+}
+
+#turtles, #insects, #snake, #notfound{
+  display: none;
+}
+
+.clickable, .clickable1, .clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover, .clickable1:hover, .clickable2:hover {
+  text-decoration: underline;
+}
