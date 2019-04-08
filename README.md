@@ -1,12 +1,12 @@
-# _Voting Information_
+# _Animal Wiki_
 
-#### _Voting Information 01/17/2019_
+#### _animal-wiki 01/17/2019_
 
 #### By _**Kenny Halim and Theary Im**_
 
 ## Description
 
-_This is a website containing voting resources for minors and adults._
+_This is a website with information about animals (i.e. Turtles, snakes, insects..). A user can learn more about each animal by clicking on the animal._
 
 ## Support and contact details
 
@@ -20,7 +20,7 @@ _Feel free to use this code, contact me at kennyhalim98@gmail.com, thearyim@gmai
 * _Atom_
 * _Command prompt_
 * _Javascript_
-* _JQUERY_
+* _JQuery_
 
 ### License
 MIT
